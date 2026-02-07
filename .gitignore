@@ -1,1 +1,1 @@
-.venv/
+.venv/ .idea/ __pycache__/ .DS_Store practice.py
